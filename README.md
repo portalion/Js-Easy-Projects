@@ -18,3 +18,4 @@ In each folder there are index.html, you just need to open it.
 
 ## List of projects
 - [x] Stopwatch 
+- [] Clock
