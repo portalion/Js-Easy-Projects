@@ -17,4 +17,4 @@ There are few folders with beginner projects like stopwatch, to learn JavaScript
 In each folder there are index.html, you just need to open it.
 
 ## List of projects
-* Stopwatch - [x]
+- [x] Stopwatch 
